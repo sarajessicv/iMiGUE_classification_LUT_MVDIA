@@ -1,0 +1,5 @@
+ipykernel==6.23.2
+matplotlib==3.7.1
+numpy==1.25.0
+tensorflow==2.16.1
+tensorflow-hub
